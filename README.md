@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 > “Well, RNNs aren’t exactly the boogeyman of AI.
 They were the models you once sent to tackle the amazing boogeyman — the sequence problems.
