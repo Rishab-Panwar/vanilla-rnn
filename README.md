@@ -418,13 +418,13 @@ By the time we process "was", the network has likely forgotten "cat".
 ## 📚 Resources
 
 ### Papers
-- [https://www.nature.com/articles/323533a0] - Rumelhart et al., 1986
+- [Rumelhart et al., 1986](https://www.nature.com/articles/323533a0)
 
 ### Online Courses
 - [CampusX RNN series](https://youtu.be/4KpRP-YUw6c?list=PLGP2q2bIgaNzBBpxxNUf126chLsQ20dfG)
 
 ### Tools and Libraries
-- PyTorch: https://pytorch.org/
+- [PyTorch](https://pytorch.org/)
 ---
 
 ## 🤝 Contributing
