@@ -30,10 +30,10 @@ ___________________________________________
 - [Overview](#-overview)
 - [Why RNNs Matter](#-why-rnns-matter)
 - [Video Series](#-video-series)
-- [Architecture Deep Dive](#architecture-deep-dive)
+- [Architecture Deep Dive](#-architecture-deep-dive)
 - [Input-Output Patterns](#-input-output-patterns)
 - [Mathematical Foundations](#-mathematical-foundations)
-- [Challenges and Limitations](#challenges-and-limitations)
+- [Challenges and Limitations](#-challenges-and-limitations)
 - [Applications](#-applications)
 - [Resources](#-resources)
 - [Contributing](#-contributing)
@@ -154,7 +154,7 @@ This repository is accompanied by a comprehensive 5-part video series covering R
 
 ---
 
-## 🏗️ Architecture Deep Dive
+## Architecture Deep Dive 🏗️ 
 
 ### Basic RNN Structure
 
