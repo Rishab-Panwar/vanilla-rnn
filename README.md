@@ -154,7 +154,7 @@ This repository is accompanied by a comprehensive 5-part video series covering R
 
 ---
 
-## 🏗️ Architecture Deep Dive
+## Architecture Deep Dive 🏗️
 
 ### Basic RNN Structure
 
@@ -320,7 +320,7 @@ The gradient accumulates contributions from all future time steps, which leads t
 
 ---
 
-## ⚠️ Challenges and Limitations
+## Challenges and Limitations ⚠️
 
 ### 1. Vanishing Gradient Problem
 
