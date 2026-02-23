@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> “Well, RNNs aren’t exactly the boogeyman of AI.
+> "Well, RNNs aren't exactly the boogeyman of AI.
 They were the models you once sent to tackle the amazing boogeyman — the sequence problems.
 
 > RNNs are architectures of hidden state 🧠… temporal memory 🕰️… and sheer determination 💪 to carry information across time.
@@ -14,7 +14,7 @@ They were the models you once sent to tackle the amazing boogeyman — the seque
 
 > Then one day, the field moved on — researchers wanted more.
  Attention mechanisms. Transformer stacks.
-But don’t forget — it was the RNNs who faced the impossible tasks first
+But don't forget — it was the RNNs who faced the impossible tasks first
 
 > The gradients they tamed, the sequences they conquered…
  That laid the foundation for everything we build on now. 🏗️
@@ -154,7 +154,7 @@ This repository is accompanied by a comprehensive 5-part video series covering R
 
 ---
 
-## Architecture Deep Dive 🏗️
+## <a id="architecture-deep-dive"></a>🏗️ Architecture Deep Dive
 
 ### Basic RNN Structure
 
@@ -320,7 +320,7 @@ The gradient accumulates contributions from all future time steps, which leads t
 
 ---
 
-## Challenges and Limitations ⚠️
+## <a id="challenges-and-limitations"></a>⚠️ Challenges and Limitations
 
 ### 1. Vanishing Gradient Problem
 
@@ -424,6 +424,7 @@ By the time we process "was", the network has likely forgotten "cat".
 
 ### Tools and Libraries
 - [PyTorch](https://pytorch.org/)
+
 ---
 
 ## 🤝 Contributing
