@@ -154,7 +154,7 @@ This repository is accompanied by a comprehensive 5-part video series covering R
 
 ---
 
-## 🏗️ Architecture Deep Dive 
+## 🏗️ Architecture Deep Dive
 
 ### Basic RNN Structure
 
